@@ -1,0 +1,7 @@
+investpy
+numpy
+pandas
+sklearn
+tensorflow
+keras
+matplotlib
